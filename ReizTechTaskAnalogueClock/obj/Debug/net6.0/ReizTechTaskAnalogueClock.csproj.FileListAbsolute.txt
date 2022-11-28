@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\bin\Debug\net6.0\ReizTechTaskAnalogueClock.exe
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\bin\Debug\net6.0\ReizTechTaskAnalogueClock.deps.json
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\bin\Debug\net6.0\ReizTechTaskAnalogueClock.runtimeconfig.json
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\bin\Debug\net6.0\ReizTechTaskAnalogueClock.dll
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\bin\Debug\net6.0\ReizTechTaskAnalogueClock.pdb
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.AssemblyInfo.cs
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.dll
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\refint\ReizTechTaskAnalogueClock.dll
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.pdb
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ReizTechTaskAnalogueClock.genruntimeconfig.cache
+C:\Users\User\source\repos\ReizTechTaskAnalogueClock\ReizTechTaskAnalogueClock\obj\Debug\net6.0\ref\ReizTechTaskAnalogueClock.dll
